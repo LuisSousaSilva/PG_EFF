@@ -1,0 +1,3 @@
+xlrd
+openpyxl
+yfinance==0.1.85
